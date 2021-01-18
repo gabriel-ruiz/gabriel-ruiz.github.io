@@ -1,11 +1,10 @@
 ## Welcome!
 
-#### Advisors: [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/)
+###
 
+I am a PhD student doing algorithmic and theoretical work on graphical models, including causal discovery and causal inference, with motivations in bioinformatics and gaps in statistical theory. Some other interests where I have basic experience include data mining, change point detection, models for network and relational data, and generally the intersection of machine learning and statistics. My awesome advisors are Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/). 
 
-I am a PhD student doing algorithmic and theoretical work on graphical models, including causal discovery and causal inference, with motivations in bioinformatics and gaps in statistical theory. Some other interests where I have basic experience include data mining, change point detection, models for network and relational data, and generally the intersection of machine learning and statistics. 
-
-I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/).
+I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/). A copy of my CV is [here]()
 
 
 ### Grants: 
@@ -14,7 +13,9 @@ NSF GRFP DGE-1650604
 ### Published/Accepted papers
 
 OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [Link](https://arxiv.org/abs/1609.01664)
+
 OA Vsevolozhskaya, CL Kuo, **G Ruiz**, L Diatchenko, DV Zaykin. "The more you test, the more you find: The smallest Pvalues become increasingly enriched with real findings as more tests are conducted." **Genetic Epidemiology**, 2017. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22064)
+
 S Ghosh, G Ruiz, B Wales. "Subsampled data-based alternative regularized estimators."
  **Journal of Data Science**, 2020.
 
@@ -31,5 +32,4 @@ I have been a Teaching Assistant for Statistics 10-Introductory Statistics, [Sta
 I had the pleasure of working for [Dmitri Zaykin](https://scholar.google.com/citations?user=Lk0u83MAAAAJ&hl=en) at the National Institute of Environmental Health Sciences in Research Triangle Park, North Carolina in Summer 2016. And in Summer 2017 I worked at [Draper Laboratory](https://www.draper.com/) in Cambridge, MA with the Perception and Localization group thanks to the [GEM Consortium Fellowship](http://www.gemfellowship.org/students/gem-fellowship-program/). As an undergrad, I was also involved with the [Highlander Statistics Society](https://highlanderlink.ucr.edu/organization/hiss), a student chapter of the American Statistical Association.
 
 #### Social Media
-Linkedin [Link](https://www.linkedin.com/in/gabriel-ruiz-9a2a19b5/)
-Twitter [Link](https://twitter.com/_ruizGabriel)
+[LinkedIn](https://www.linkedin.com/in/gabriel-ruiz-9a2a19b5/), [Twitter](https://twitter.com/_ruizGabriel)

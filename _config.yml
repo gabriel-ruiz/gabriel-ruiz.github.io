@@ -1,4 +1,3 @@
 theme: jekyll-theme-minimal
 title: Gabriel Ruiz
-header-includes:
-- \titlegraphic{\centering \includegraphics[width=12cm]{portrait.png}}
+teaser: portrait.png

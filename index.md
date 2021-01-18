@@ -1,6 +1,5 @@
 ## Welcome!
 
-###
 
 I am a PhD student doing algorithmic and theoretical work on graphical models, including causal discovery and causal inference, with motivations in bioinformatics and gaps in statistical theory. Some other interests where I have basic experience include data mining, change point detection, models for network and relational data, and generally the intersection of machine learning and statistics. My awesome advisors are Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/). 
 

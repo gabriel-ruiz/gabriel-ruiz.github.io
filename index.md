@@ -44,5 +44,5 @@ I had the pleasure of working for [Dmitri Zaykin](https://scholar.google.com/cit
 
 #### Miscellaneuous 
 
-- [Some review slides on Causal Discovery](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/slides_reading_group_10Dec2020.pdf) 
+- [Some review slides on Causal Discovery](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/readingGroup_10Dec2020.pdf) 
 - [What are some ways to find a mentor as an undergrad?](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/howToFindAMentor_RLadiesIrvine%20_15Sept2020_ruizGabriel.pdf)

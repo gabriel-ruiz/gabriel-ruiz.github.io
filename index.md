@@ -1,13 +1,15 @@
 
 ## Welcome!
-#### E-Mail: ruizG at ucla dot edu
 
 <h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait.png" alt="Picture" border="3" width="180" height="125"></span></h1>
 
+##### E-mail: ruizG @ ucla.edu
+##### Office: Math & Sciences Bldg. 8145
 
 I am a PhD student doing algorithmic and theoretical work on graphical models, including causal discovery and causal inference, with motivations that include bioinformatics and slight gaps in asymptotic statistical theory. Other areas of interest include data mining, change point detection, models for network and relational data, and generally the intersection of machine learning and statistics. My awesome advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
 
 I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/). A copy of my resumé can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/resume_ruizgabriel_github.pdf).
+
 
 
 ### Grants: 

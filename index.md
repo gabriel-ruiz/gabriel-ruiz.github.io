@@ -23,9 +23,9 @@ NSF GRFP DGE-1650604
 S Ghosh, **G Ruiz**, B Wales. "Subsampled data-based alternative regularized estimators."
  **Journal of Data Science**, 2020.
 
-OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [Link](https://arxiv.org/abs/1609.01664)
+OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [[Link](https://arxiv.org/abs/1609.01664)]
 
-OA Vsevolozhskaya, CL Kuo, **G Ruiz**, L Diatchenko, DV Zaykin. "The more you test, the more you find: The smallest Pvalues become increasingly enriched with real findings as more tests are conducted." **Genetic Epidemiology**, 2017. [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22064)
+OA Vsevolozhskaya, CL Kuo, **G Ruiz**, L Diatchenko, DV Zaykin. "The more you test, the more you find: The smallest Pvalues become increasingly enriched with real findings as more tests are conducted." **Genetic Epidemiology**, 2017. [[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22064)]
 
 
 ### Preprints

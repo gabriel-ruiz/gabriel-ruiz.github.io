@@ -3,8 +3,9 @@
 
 <h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait.png" alt="Picture" border="3" width="180" height="125"></span></h1>
 
-##### E-mail: ruizG @ ucla.edu
-##### Office: Math & Sciences Bldg. 8145
+### Gabriel Ruiz
+#### E-mail: ruizG @ ucla.edu
+#### Office: Math & Sciences Bldg. 8145
 
 I am a PhD student doing algorithmic and theoretical work on graphical models, including causal discovery and causal inference, with motivations that include bioinformatics and slight gaps in asymptotic statistical theory. Other areas of interest include data mining, change point detection, models for network and relational data, and generally the intersection of machine learning and statistics. My awesome advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
 

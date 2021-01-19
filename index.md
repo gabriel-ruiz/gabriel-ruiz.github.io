@@ -1,5 +1,6 @@
 
 ## Welcome!
+#### E-Mail: ruizG at ucla dot edu
 
 <h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait.png" alt="Picture" border="3" width="180" height="125"></span></h1>
 

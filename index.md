@@ -1,7 +1,7 @@
 
 ## Welcome!
 
-#### E-mail: ruizG	@	ucla . edu
+#### E-mail: <ruizG@ucla.edu>
 
 #### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles
 

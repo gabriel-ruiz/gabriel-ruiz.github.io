@@ -30,6 +30,7 @@ OA Vsevolozhskaya, CL Kuo, **G Ruiz**, L Diatchenko, DV Zaykin. "The more you te
 
 ### Preprints
 
+OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)]
 
 ### Teaching
 I have been a Teaching Assistant for Statistics 10-Introductory Statistics, Statistics 100A-Probability with Texas Hold 'Em Examples, and [Statistics 200C-High Dimensional Statistics](http://www.stat.ucla.edu/~arashamini/teaching/200c).

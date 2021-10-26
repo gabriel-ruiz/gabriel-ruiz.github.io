@@ -6,7 +6,7 @@
 #### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles
 
 
-<h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait2.jpg" alt="Picture" border="3" width="180" height="125"></span></h1>
+<h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait2.jpg" alt="Picture" border="3" width="180" height="205"></span></h1>
 
 
 I am a PhD student in statistics at UCLA doing algorithmic and theoretical work on graphical models and data mining with motivations that include bioinformatics and slight gaps in their asymptotic statistical theory. Other areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. My advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).

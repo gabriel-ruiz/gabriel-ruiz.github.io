@@ -26,7 +26,7 @@ NSF GRFP DGE-1650604
 - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "A statistically consistent Bayesian network structure learning method for the Linear Non-Gaussian Acyclic Model with parametric errors." **Working paper**, 2021+. [[relevant reference](https://dl.acm.org/doi/10.5555/1248547.1248619)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
 - **G Ruiz**, OH Madrid-Padilla. "Augmenting the estimated Conditional Average Treatment Effect (CATE) function with robust probabilities to assess CATE's goodness of fit," **Working paper**, 2021+. [[relevant reference](https://pubmed.ncbi.nlm.nih.gov/29774591/)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
-- M Burkhart, **G Ruiz**. "A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE." In review, 2021+.
+- M Burkhart, **G Ruiz**. "A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE." **In review**, 2021+.
 
 
 ### Published/Accepted papers

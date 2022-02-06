@@ -13,7 +13,7 @@ I am a PhD student in statistics at UCLA doing algorithmic and theoretical work 
 
 I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/). 
 
-A copy of my cv can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/cv.pdf).
+A copy of my cv can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/cv_public.pdf).
 
 
 

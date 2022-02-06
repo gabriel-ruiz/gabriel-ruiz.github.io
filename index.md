@@ -9,11 +9,11 @@
 <h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait2.jpg" alt="Picture" border="3" width="180" height="205"></span></h1>
 
 
-I am a PhD student in statistics at UCLA doing algorithmic and theoretical work on graphical models and data mining with motivations that include bioinformatics and slight gaps in their asymptotic statistical theory. Other areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. My advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
+I am a PhD student in statistics at UCLA doing algorithmic and theoretical work on graphical models and data mining with motivations that include bioinformatics and slight gaps in their statistical theory. My main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. My advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
 
 I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/). 
 
-A copy of my resumé can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/cv.pdf).
+A copy of my cv can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/cv.pdf).
 
 
 
@@ -22,11 +22,15 @@ NSF GRFP DGE-1650604
 
 
 ### Preprints and Working Papers
+**Structural Equation Modeling**
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequential Learning of the Topological Ordering for the Linear Non-Gaussian Acyclic Model with Parametric Noise." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Statistical Guarantees for the Sequential Learning of the Topological Ordering for the Linear Non-Gaussian Acyclic Model with Generalized Parametric Noise Densities." **Working Paper**, 2022+.
 
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "A statistically consistent Bayesian network structure learning method for the Linear Non-Gaussian Acyclic Model with parametric errors." **Working paper**, 2021+. [[relevant reference](https://dl.acm.org/doi/10.5555/1248547.1248619)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
-- **G Ruiz**, OH Madrid-Padilla. "Augmenting the estimated Conditional Average Treatment Effect (CATE) function with robust probabilities to assess CATE's goodness of fit." **Working paper**, 2021+. [[relevant reference](https://pubmed.ncbi.nlm.nih.gov/29774591/)].
+**Causal Inference**
+- **G Ruiz**, OH Madrid-Padilla. "Augmenting the estimated Conditional Average Treatment Effect (CATE) function with robust probabilities to assess CATE's goodness of fit." **Working paper**, 2022+. [[relevant reference](https://pubmed.ncbi.nlm.nih.gov/29774591/)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
-- M Burkhart, **G Ruiz**. "A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE." **In review**, 2021+.
+- M Burkhart, **G Ruiz**. "Neuroevolutionary Feature Representations for Causal Inference" **Working Paper**, 2022+.
+<!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->
 
 
 ### Published/Accepted papers
@@ -46,7 +50,7 @@ I have been a Teaching Assistant for Statistics 10: Introductory Statistics (6x)
 
 #### Miscellaneuous 
 - [Some review slides on Causal Discovery.](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)
-- [What are some ways to find a mentor as an undergrad?](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/howToFindAMentor_RLadiesIrvine%20_15Sept2020_ruizGabriel.pdf)
+<!-- - [What are some ways to find a mentor as an undergrad?](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/howToFindAMentor_RLadiesIrvine%20_15Sept2020_ruizGabriel.pdf) -->
 - [Understanding Predictors of Freshman Enrollment at UC Riverside (undergraduate consulting class project).](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/stat183_project_ruizGabriel.pdf)
 
 #### Social Media

@@ -29,7 +29,7 @@ NSF GRFP DGE-1650604
 **Causal Inference**
 - **G Ruiz**, OH Madrid-Padilla. "Augmenting the estimated Conditional Average Treatment Effect (CATE) function with robust probabilities to assess CATE's goodness of fit." **Working paper**, 2022+. [[relevant reference](https://pubmed.ncbi.nlm.nih.gov/29774591/)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
-- M Burkhart, **G Ruiz**. "Neuroevolutionary Feature Representations for Causal Inference" **Working Paper**, 2022+.
+- M Burkhart, **G Ruiz**. "Neuroevolutionary Feature Representations for Causal Inference." **Working Paper**, 2022+.
 <!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->
 
 

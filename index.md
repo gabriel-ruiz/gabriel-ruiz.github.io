@@ -24,7 +24,7 @@ NSF GRFP DGE-1650604
 ### Preprints and Working Papers
 **Structural Equation Modeling**
 - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequential learning of the topological ordering for the Linear Non-Gaussian Acyclic Model with parametric noise." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Learning the Linear Non-Gaussian Acyclic Model’s topological ordering with family-wise error control for a swapped parent-child pair under generalized parametric noise density specification." **Working Paper**, 2022+.
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Estimation of the Linear Non-Gaussian Acyclic Model with tunable tail decay and statistical guarantees." **Working Paper**, 2022+.
 
 **Causal Inference**
 - **G Ruiz**, OH Madrid-Padilla. "Augmenting the estimated Conditional Average Treatment Effect (CATE) function with robust probabilities to assess CATE's goodness of fit." **Working paper**, 2022+. [[relevant reference](https://pubmed.ncbi.nlm.nih.gov/29774591/)].

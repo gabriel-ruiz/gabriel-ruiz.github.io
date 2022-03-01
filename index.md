@@ -34,11 +34,10 @@ NSF GRFP DGE-1650604
 
 
 ### Published/Accepted papers
-- S Ghosh, **G Ruiz**, B Wales. "Subsampled data-based alternative regularized estimators."
- **Journal of Data Science,** 2020.
 - OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [[Link](https://arxiv.org/abs/1609.01664)]
 - OA Vsevolozhskaya, CL Kuo, **G Ruiz**, L Diatchenko, DV Zaykin. "The more you test, the more you find: The smallest Pvalues become increasingly enriched with real findings as more tests are conducted." **Genetic Epidemiology**, 2017. [[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22064)]
-
+- S Ghosh, **G Ruiz**, B Wales. "Subsampled data-based alternative regularized estimators."
+ **Journal of Data Science,** 2020.
 
 ### Work Experience
 I had the pleasure of working for [Dmitri Zaykin](https://scholar.google.com/citations?user=Lk0u83MAAAAJ&hl=en) at the National Institute of Environmental Health Sciences in Research Triangle Park, North Carolina in Summer 2016 on simulation work related to multiple hypothesis testing in genetics. In Summer 2017, I worked at [Draper Laboratory](https://www.draper.com/) in Cambridge, MA with an engineering team in the Perception and Localization group thanks to the [GEM Consortium Fellowship](http://www.gemfellowship.org/students/gem-fellowship-program/). And as a repeat data scientist intern at Adobe Inc., I worked on churn classification models and causal modeling in Summers 2019 and 2021, respectively. 

@@ -53,5 +53,5 @@ I have been a Teaching Assistant for Statistics 10: Introductory Statistics (6x)
 - [Understanding Predictors of Freshman Enrollment at UC Riverside (undergraduate consulting class project).](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/stat183_project_ruizGabriel.pdf)
 
 #### Social Media
-[LinkedIn](https://www.linkedin.com/in/gabriel-ruiz-9a2a19b5/), 
+[LinkedIn](https://www.linkedin.com/in/gabriel-ruiz-9a2a19b5/)
 <!-- [Twitter](https://twitter.com/_ruizGabriel) -->

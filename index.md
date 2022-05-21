@@ -24,7 +24,7 @@ NSF GRFP DGE-1650604
 ### Preprints and Working Papers
 
 **Causal Inference**
-- **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022+. [[Link](https://arxiv.org/abs/2205.09094)].
+- **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022+. [[Link](https://arxiv.org/abs/2205.09094)][[Poster](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/acic2022Poster.pdf)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
 - M Burkhart, **G Ruiz**. "Neuroevolutionary Feature Representations for Causal Inference." **International Conference on Computational Science**, (to appear) 2022.
 <!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->

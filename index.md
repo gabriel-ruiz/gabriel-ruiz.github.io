@@ -22,15 +22,17 @@ NSF GRFP DGE-1650604
 
 
 ### Preprints and Working Papers
-**Structural Equation Modeling**
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequential learning of the topological ordering for the Linear Non-Gaussian Acyclic Model with parametric noise." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scaleable causal discovery with tunable tail decay and statistical guarantees under parametric conditions." **Working Paper**, 2022+.
 
 **Causal Inference**
-- **G Ruiz**, OH Madrid-Padilla. "Augmenting the estimated Conditional Average Treatment Effect (CATE) function with robust probabilities to assess CATE's goodness of fit." **Working paper**, 2022+. [[relevant reference](https://pubmed.ncbi.nlm.nih.gov/29774591/)].
+- **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022+. [[Link](https://arxiv.org/abs/2205.09094)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
-- M Burkhart, **G Ruiz**. "Neuroevolutionary Feature Representations for Causal Inference." **In review**, 2022+.
+- M Burkhart, **G Ruiz**. "Neuroevolutionary Feature Representations for Causal Inference." **International Conference on Computational Science**, (to appear) 2022.
 <!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->
+
+
+**Structural Equation Modeling**
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scaleable causal discovery with tunable tail decay and statistical guarantees under power law or expoentially decaying tails." **Working Paper**, 2022+.
 
 
 ### Published/Accepted papers

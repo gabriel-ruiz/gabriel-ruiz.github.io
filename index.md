@@ -26,7 +26,7 @@ NSF GRFP DGE-1650604
 
 **Structural Equation Modeling**
 - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scaleable causal discovery with tunable tail decay and statistical guarantees under power law or expoentially decaying tails." **Working Paper**, 2022+.
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scaleable causal discovery with tunable power law or exponential tail decay." **Working Paper**, 2022+.
 
 
 **Causal Inference**

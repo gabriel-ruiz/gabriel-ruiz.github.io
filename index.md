@@ -11,7 +11,7 @@
 
 I am a PhD student in statistics at UCLA where my main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. My advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
 
-I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/). 
+<!-- I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/).  -->
 
 <!-- A copy of my cv can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/cv_public.pdf). -->
 
@@ -41,7 +41,10 @@ I received my B.S. in statistics from University of Calfornia, Riverside in 2017
 NSF GRFP DGE-1650604
 
 ### Work Experience
-I had the pleasure of working for [Dmitri Zaykin](https://scholar.google.com/citations?user=Lk0u83MAAAAJ&hl=en) at the National Institute of Environmental Health Sciences in Research Triangle Park, North Carolina in Summer 2016 on simulation work related to multiple hypothesis testing in genetics. In Summer 2017, I worked at [Draper Laboratory](https://www.draper.com/) in Cambridge, MA with an engineering team in the Perception and Localization group thanks to the [GEM Consortium Fellowship](http://www.gemfellowship.org/students/gem-fellowship-program/). And as a repeat data scientist intern at Adobe Inc., I worked on churn classification models and causal modeling in Summers 2019 and 2021, respectively. 
+- I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/).
+- I had the pleasure of working for [Dmitri Zaykin](https://scholar.google.com/citations?user=Lk0u83MAAAAJ&hl=en) at the National Institute of Environmental Health Sciences in Research Triangle Park, North Carolina in Summer 2016 on simulation work related to multiple hypothesis testing in genetics. 
+- In Summer 2017, I worked at [Draper Laboratory](https://www.draper.com/) in Cambridge, MA with an engineering team in the Perception and Localization group thanks to the [GEM Consortium Fellowship](http://www.gemfellowship.org/students/gem-fellowship-program/). 
+- As a repeat data scientist intern at Adobe Inc., I worked on churn classification models and causal modeling in Summers 2019 and 2021, respectively. 
 
 
 ### Teaching

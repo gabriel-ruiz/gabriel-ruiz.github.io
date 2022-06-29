@@ -21,17 +21,17 @@ I am a PhD student in statistics at UCLA where my main areas of interest include
 
 
 **Structural Equation Modeling**
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748)][[Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748), [Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
 - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scalable causal discovery with tunable exponential or power law tail decay and family-wise error control." **Working Paper**, 2022+.
 
 
 **Causal Inference**
-- **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022+. [[Link](https://arxiv.org/abs/2205.09094)][[Poster](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/acic2022Poster.pdf)].
+- **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022+. [[Link](https://arxiv.org/abs/2205.09094), [Poster](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/acic2022Poster.pdf)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
 
 
 ### Published/Accepted papers
-- M Burkhart, **G Ruiz**. "Neuroevolutionary feature representations for causal inference." **International Conference on Computational Science**, 2022. [[Link](https://www.repository.cam.ac.uk/handle/1810/337412), [Preprint](https://arxiv.org/abs/2205.10541)]
+- M Burkhart, **G Ruiz**. "Neuroevolutionary feature representations for causal inference." **International Conference on Computational Science**, 2022. [[Link](https://www.repository.cam.ac.uk/handle/1810/337412), [Preprint](https://arxiv.org/abs/2205.10541), [Slides](https://easychair.org/smart-slide/slide/zmSQ#)]
 <!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->
 - OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [[Link](https://doi.org/10.1038/s41398-017-0024-3)]
 - OA Vsevolozhskaya, CL Kuo, **G Ruiz**, L Diatchenko, DV Zaykin. "The more you test, the more you find: The smallest Pvalues become increasingly enriched with real findings as more tests are conducted." **Genetic Epidemiology**, 2017. [[Link](https://onlinelibrary.wiley.com/doi/full/10.1002/gepi.22064)]

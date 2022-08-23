@@ -1,15 +1,19 @@
 
 ## Welcome!
 
-#### E-mail: <ruizG@ucla.edu>
+#### E-mail: <17ruiz17@gmail.com, ruizg@ucla.edu>
 
-#### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles
+<!-- #### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles -->
 
 
 <h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait2.jpg" alt="Picture" border="3" width="180" height="205"></span></h1>
 
 
-I am a PhD student in statistics at UCLA where my main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. My advisors are [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
+I am currently a machine learning engineer at Adobe in San Jose, CA. 
+
+My main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. 
+
+Previosuly, I was a PhD student in statistics at UCLA (2017-22). My dissertation advisors were [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
 
 <!-- I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/).  -->
 
@@ -48,7 +52,7 @@ NSF GRFP DGE-1650604
 
 
 ### Teaching
-I have been a Teaching Assistant for Statistics 10: Introductory Statistics (6x), Statistics 100A: Probability with Texas Hold 'Em Examples (1x), [Statistics 100C: Linear Models](http://www.stat.ucla.edu/~nchristo/statistics100C/) (1x), and [Statistics 200C: High Dimensional Statistics](http://www.stat.ucla.edu/~arashamini/teaching/200c) (1x).
+I was a Teaching Assistant at UCLA for Statistics 10: Introductory Statistics (6x), Statistics 100A: Probability with Texas Hold 'Em Examples (1x), [Statistics 100C: Linear Models](http://www.stat.ucla.edu/~nchristo/statistics100C/) (1x), and [Statistics 200C: High Dimensional Statistics](http://www.stat.ucla.edu/~arashamini/teaching/200c) (1x).
 
 
 #### Miscellaneuous 
@@ -58,4 +62,5 @@ I have been a Teaching Assistant for Statistics 10: Introductory Statistics (6x)
 
 #### Social Media
 [LinkedIn](https://www.linkedin.com/in/gabriel-ruiz-9a2a19b5/)
-<!-- [Twitter](https://twitter.com/_ruizGabriel) -->
+
+[Twitter](https://mobile.twitter.com/gabriel_ruiz001)

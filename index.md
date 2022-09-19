@@ -26,7 +26,7 @@ Previosuly, I was a PhD student in statistics at UCLA (2017-22). My dissertation
 
 **Structural Equation Modeling**
 - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748), [Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scalable causal discovery with tunable exponential or power law tail decay and family-wise error control." **Working Paper**, 2022+.
+<!-- - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scalable causal discovery with tunable exponential or power law tail decay and family-wise error control." **Working Paper**, 2022+. -->
 
 
 **Causal Inference**
@@ -58,9 +58,9 @@ I was a Teaching Assistant at UCLA for Statistics 10: Introductory Statistics (6
 #### Miscellaneuous 
 - [Some review slides on Causal Discovery.](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)
 <!-- - [What are some ways to find a mentor as an undergrad?](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/howToFindAMentor_RLadiesIrvine%20_15Sept2020_ruizGabriel.pdf) -->
-- [Understanding Predictors of Freshman Enrollment at UC Riverside (undergraduate consulting class project).](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/stat183_project_ruizGabriel.pdf)
+<!-- - [Understanding Predictors of Freshman Enrollment at UC Riverside (undergraduate consulting class project).](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/stat183_project_ruizGabriel.pdf) -->
 
 #### Social Media
 [LinkedIn](https://www.linkedin.com/in/gabriel-ruiz-9a2a19b5/)
 
-[Twitter](https://mobile.twitter.com/gabriel_ruiz001)
+<!-- [Twitter](https://mobile.twitter.com/gabriel_ruiz001) -->

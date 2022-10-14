@@ -1,7 +1,7 @@
 
 ## Welcome!
 
-#### E-mail: <17ruiz17@gmail.com, ruizg@ucla.edu>
+#### E-mail: <17ruiz17@gmail.com>, <ruizg@ucla.edu>
 
 <!-- #### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles -->
 
@@ -13,7 +13,7 @@ I am currently a machine learning engineer at Adobe in San Jose, CA.
 
 My main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. 
 
-Previosuly, I was a PhD student in statistics at UCLA (2017-22). My dissertation advisors were [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
+Previously, I was a PhD student in statistics at UCLA (2017-22). My dissertation advisors were [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).
 
 <!-- I received my B.S. in statistics from University of Calfornia, Riverside in 2017 and had the pleasure of working there with [Dr. Subir Ghosh](https://profiles.ucr.edu/subir.ghosh) through the [MARC U program](https://marcu.ucr.edu/).  -->
 

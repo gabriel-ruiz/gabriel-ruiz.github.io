@@ -12,7 +12,7 @@
 I am currently a machine learning engineer at Adobe in San Jose, CA. 
 
 
-My main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. I also have a budding interest in new applications of non-asymptotic inference.
+My main areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics. I am also interested in non-asymptotic inference.
 
 
 Previously, I was a PhD student in statistics at UCLA (2017-22). My dissertation advisors were [Qing Zhou](http://www.stat.ucla.edu/~zhou/) and [Oscar Madrid Padilla](https://hernanmp.github.io/).

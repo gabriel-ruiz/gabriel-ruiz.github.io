@@ -27,17 +27,19 @@ Previously, I was a PhD student in statistics at UCLA (2017-22). My dissertation
 ### Preprints and Working Papers
 
 
-**Structural Equation Modeling**
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **arXiv Preprint**, 2022. [[Link](https://arxiv.org/abs/2202.01748), [Causal Discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
+<!-- **Structural Equation Modeling** -->
+
 <!-- - **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Scalable causal discovery with tunable exponential or power law tail decay and family-wise error control." **Working Paper**, 2022+. -->
 
 
-**Causal Inference**
+<!-- **Causal Inference** -->
+- **G Ruiz**, OH Madrid-Padilla. "Sharp, high confidence inference on counterfactuals' conditional probability mass function." **Working Paper**, 2022+. 
 - **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022+. [[Link](https://arxiv.org/abs/2205.09094), [Poster](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/ACIC2022_andLatMath2022Poster.pdf)].
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021. [[Link](https://arxiv.org/abs/2110.00901)].
 
 
 ### Published/Accepted papers
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **Transactions of Machine Learning Research** (to appear), 2022+. [[Link](https://arxiv.org/abs/2202.01748), [Causal discovery review slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
 - M Burkhart, **G Ruiz**. "Neuroevolutionary feature representations for causal inference." **International Conference on Computational Science**, 2022. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-08754-7_1), [Slides](https://easychair.org/smart-slide/slide/zmSQ#)]
 <!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->
 - OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [[Link](https://doi.org/10.1038/s41398-017-0024-3)]

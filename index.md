@@ -38,7 +38,7 @@ Previously, I was a PhD student in statistics at UCLA (2017-22). My dissertation
 
 
 ### Published/Accepted papers
-- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **Transactions of Machine Learning Research** (to appear), 2022+. [[Link](https://openreview.net/forum?id=4pCjIGIjrt), [R Package](https://gabriel-ruiz.github.io/scorelingam/), [Review Slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
+- **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **Transactions on Machine Learning Research** (to appear), 2022+. [[Link](https://openreview.net/forum?id=4pCjIGIjrt), [R Package](https://gabriel-ruiz.github.io/scorelingam/), [Review Slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
 - M Burkhart, **G Ruiz**. "Neuroevolutionary feature representations for causal inference." **International Conference on Computational Science**, 2022. [[Link](https://link.springer.com/chapter/10.1007/978-3-031-08754-7_1), [Slides](https://easychair.org/smart-slide/slide/zmSQ#)]
 <!--   -A strategy for Feature Engineering as a pre-processing step to the [R/S/T/X]-Learner frameworks to estimate CATE. -->
 - OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017. [[Link](https://doi.org/10.1038/s41398-017-0024-3)]

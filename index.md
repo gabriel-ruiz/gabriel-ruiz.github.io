@@ -6,7 +6,7 @@
 <!-- #### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles -->
 
 
-<h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait3.jpg" alt="Picture" border="3" width="180" height="295"></span></h1>
+<h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./portrait3.jpg" alt="Picture" border="3" width="200" height="300"></span></h1>
 
 
 I am currently a machine learning engineer at Adobe in San Jose, CA. 

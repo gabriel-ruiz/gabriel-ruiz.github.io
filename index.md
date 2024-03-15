@@ -6,7 +6,7 @@
 <!-- #### Office: Math & Sciences Bldg. 8145, University of California - Los Angeles -->
 
 
-<h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./Firefly 20240207001300.png" alt="Picture" border="3" width="160" height="241"></span></h1>
+<h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./Firefly 20240207001300.png" alt="Picture" border="3" width="150" height="241"></span></h1>
 
 
 I am currently a machine learning engineer at Adobe in San Jose, CA. 
@@ -34,7 +34,8 @@ Previously, I was a PhD student in statistics at UCLA (2017-22). My dissertation
 ### Preprints and Working Papers
 
 **Causal Inference**
-- **G Ruiz**, OH Madrid-Padilla. "High confidence inference on the binarized distribution of multi-marker counterfactuals." **Working Paper**, 2023+. 
+- **G Ruiz**. "Sample size planning for conditional counterfactual mean estimation with a K-armed randomized experiment." **arXiv Preprint**, 2024. [[Link](https://arxiv.org/abs/2403.04039)]
+<!-- - **G Ruiz**, OH Madrid-Padilla. "High confidence inference on the binarized distribution of multi-marker counterfactuals." **Working Paper**, 2023+. -->
 - **G Ruiz**, OH Madrid-Padilla. "Non-asymptotic confidence bands on the probability an individual benefits from treatment (PIBT)." **arXiv Preprint**, 2022.  [[Link](https://arxiv.org/abs/2205.09094), [Poster](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/ACIC2022_andLatMath2022Poster.pdf)]
 - OH Madrid-Padilla, P Ding, Y Chen, **G Ruiz**. "A causal fused lasso for interpretable heterogeneous treatment effects." **arXiv Preprint**, 2021.  [[Link](https://arxiv.org/abs/2110.00901)]
 

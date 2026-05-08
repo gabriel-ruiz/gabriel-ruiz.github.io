@@ -11,7 +11,7 @@
 
 I am currently a senior applied scientist at Adobe in San Jose, CA. 
 
-Lately, I have been working on understanding the added value of genAI advancements -- foundation LLMs and visual language models -- whether relative to each other or vs. traditional workflows. For example, for image quality assessments and editing.
+Lately, I have been working on understanding the added value of genAI advancements--foundation LLMs and visual language models--whether relative to each other or vs. traditional workflows. For example, for image quality assessments and editing.
 
 
 My areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics.

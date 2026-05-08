@@ -9,7 +9,9 @@
 <h1 style="color: #5e9ca0; text-align: center; rotate: 90;"><span style="color: #2b2301;"><img src="./Firefly 20240207001300.png" alt="Picture" border="3" width="150" height="241"></span></h1>
 
 
-I am currently a machine learning engineer at Adobe in San Jose, CA. Lately, I have been working on understanding the added value of genAI advancements, especially foundation LLMs and visual language models, whether relative to each other or vs. traditional workflows.
+I am currently a senior applied scientist at Adobe in San Jose, CA. 
+
+Lately, I have been working on understanding the added value of genAI advancements, especially foundation LLMs and visual language models, whether relative to each other or vs. traditional workflows, especially for image quality assessments and editing.
 
 
 My areas of interest include causal inference, causal discovery, and generally the intersection of machine learning and statistics.
@@ -23,7 +25,7 @@ Previously, I was a PhD student in statistics at UCLA (2017-22). My dissertation
 <!-- A copy of my cv can be found [here](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/cv_public.pdf). -->
 
 ### Publications
-- O.-H. Madrid-Padilla, Y. Chen, C.-M Madrid-Padilla, G. Ruiz. A causal fused lasso for interpretable heterogeneous treatment effects estimation. Journal of Machine Learning Research, 27(40):1−56, 2026. [[PDF](https://jmlr.org/papers/volume27/23-0535/23-0535.pdf), [Code](https://github.com/hernanmp/causal_fused_lasso)]
+- O.-H. Madrid-Padilla, Y. Chen, C.-M Madrid-Padilla, **G. Ruiz**. A causal fused lasso for interpretable heterogeneous treatment effects estimation. **Journal of Machine Learning Research**, 27(40):1−56, 2026. [[PDF](https://jmlr.org/papers/volume27/23-0535/23-0535.pdf), [Code](https://github.com/hernanmp/causal_fused_lasso)]
 -  **G Ruiz**, OH Madrid-Padilla, Q Zhou. "Sequentially learning the topological ordering of directed acyclic graphs with likelihood ratio scores." **Transactions on Machine Learning Research**, 2022.  [[Link](https://openreview.net/forum?id=4pCjIGIjrt), [R Package](https://gabriel-ruiz.github.io/scorelingam/), [Review Slides](https://github.com/gabriel-ruiz/gabriel-ruiz.github.io/blob/master/causal_discovery_review___reading_group_10Dec2020.pdf)].
 - M Burkhart, **G Ruiz**. "Neuroevolutionary feature representations for causal inference." **International Conference on Computational Science**, 2022.  [[Link](https://link.springer.com/chapter/10.1007/978-3-031-08754-7_1), [Slides](https://easychair.org/smart-slide/slide/zmSQ#)]
 - OA Vsevolozhskaya, **G Ruiz**, DV Zaykin. "Bayesian prediction intervals for assessing P-value variability in prospective replication studies." **Translational Psychiatry**, 2017.  [[Link](https://doi.org/10.1038/s41398-017-0024-3)]
